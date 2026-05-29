@@ -4,7 +4,13 @@
   <a href="https://ibb.co/5xnH86j"><img src="https://i.ibb.co/fGnwp2N/capa-github.png" alt="capa-github" border="0"></a><br /><a target='_blank' href='https://www.linkedin.com/in/renansjs/'></a><br />
 </p>
 
-Sou apaixonado por tecnologia, por desenvolvimento de software, em especial o desenvolvimento frontend, acredito firmimente que atraves de nossas linhas de codigo podemos transforma as vidas das pessoas e proporciona o dia a dia mais leve e pratico. Amo aprender coisas novas e encarar desafios, isso faz com que eu me motive sempre. 
+Database Administrator (DBA) with over 3 years of hands-on experience managing mission-critical PostgreSQL and SQL Server environments, ensuring high availability, performance, and data integrity.
+
+Specialized in PostgreSQL architecture and advanced performance tuning, I work extensively with Native Replication (Streaming WAL), Backup & Recovery strategies (PITR), and High Availability / Disaster Recovery (HA/DR) solutions supporting 24x7 operations.
+
+I have strong experience managing databases in cloud environments (AWS and Azure SQL), focusing on scalability, reliability, and cost optimization. My background in SQL Server and T-SQL development adds a valuable multi-platform perspective when designing and optimizing data solutions.
+
+With a degree in Computer Science and a postgraduate specialization in Software Architecture, I go beyond day-to-day administration by applying data modeling, proactive troubleshooting, and system design principles to solve complex problems and support business growth.
 
 ## Skills 
 
